@@ -1,6 +1,6 @@
 # Chat App
 
-a Real-Time Chat App using Quasar Framework, Vue.js, Vuex & Firebase for Web, Mobile & Desktop
+A Real-Time Chat App using Quasar Framework, Vue.js, Vuex & Firebase for Web, Mobile & Desktop
 
 ## Install the dependencies
 ```bash
