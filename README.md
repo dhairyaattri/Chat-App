@@ -1,6 +1,6 @@
-# Chat App (chat-app)
+# Chat App
 
-A Quasar Framework app
+a Real-Time Chat App using Quasar Framework, Vue.js, Vuex & Firebase for Web, Mobile & Desktop
 
 ## Install the dependencies
 ```bash
