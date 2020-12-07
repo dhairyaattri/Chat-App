@@ -5,8 +5,7 @@ A Real-Time Chat App using Quasar Framework, Vue.js, Vuex & Firebase for Web, Mo
 <p float="left">
   <img src="/img1.png" width="100" />
   <img src="/img2.png" width="100" /> 
-  <img src="![user](https://user-images.githubusercontent.com/67057256/101306278-78d75980-386a-11eb-9c98-5b00aa794c6f.png)
-" width="100" />
+  <img src="/public/icons/l1.png" widthh="100" />
 </p>
 
 ## Install the dependencies
