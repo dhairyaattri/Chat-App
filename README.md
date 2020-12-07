@@ -3,7 +3,6 @@
 A Real-Time Chat App using Quasar Framework, Vue.js, Vuex & Firebase for Web, Mobile & Desktop.
 
 <p float="left">
-  <img src="/screenshots/login-phn.png" width="25%" />
   <img src="/screenshots/register-phn.png" width="25%" />
   <img src="/screenshots/user-pphn.png" width="25%" /> 
   <img src="/screenshots/chat-phn.png" width="25%" />
