@@ -3,9 +3,9 @@
 A Real-Time Chat App using Quasar Framework, Vue.js, Vuex & Firebase for Web, Mobile & Desktop.
 
 <p float="left">
-  <img src="/img1.png" width="100" />
-  <img src="/img2.png" width="100" /> 
-  <img src="/img3.png" width="100" />
+  <img src="/screenshots/register-phn.png" width="100" />
+  <img src="/screenshots/user-pphn.png" width="100" /> 
+  <img src="/screenshots/chat-phn.png" width="100" />
 </p>
 
 ## Install the dependencies
